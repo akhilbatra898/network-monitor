@@ -1,0 +1,8 @@
+<clients>
+
+ <client ip='127.0.0.1' port='22' username='akhil' password='akki123' mail="akhil.batra898@gmail.com">
+  <alert type="memory" limit="95%" />
+  <alert type="cpu" limit="2%" />
+ </client>
+
+</clients>
